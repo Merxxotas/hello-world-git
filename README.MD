@@ -4,4 +4,15 @@
 #### Cabecera H5
 ##### Cabecera H5
 ###### Cabecera H6
-Soy un README. 
+
+Underline 1
+------------
+
+Underline 2
+===========
+
+- *Formato italica de la primer forma.*
+- _Formato italica de la Segunda forma._
+- **Formato negrita o bold de la primer forma**
+- __Formato negrita o bold de la segunda forma__
+- ~~Formato tachado~~
