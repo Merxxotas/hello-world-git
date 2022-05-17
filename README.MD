@@ -67,3 +67,9 @@ export  $initHighlight;
 | Brayan | Marin | 123456789 |
 | Aprendiendo | Git | ----- |
 
+# Citas
+Cualquier cosa
+> Esto es una cita
+
+Puedo escribir cualquier cosa
+> Otra cita
