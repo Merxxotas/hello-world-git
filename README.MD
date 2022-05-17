@@ -31,3 +31,6 @@ Underline 2
 # Links
 - [Links en markdown](http://www.google.com.co)
 - [Link al index](index.html)
+
+# Imagenes 
+![WLogs](warcraftlogs.jpg)
