@@ -20,9 +20,14 @@ Underline 2
 - __Formato negrita o bold de la segunda forma__
 - ~~Formato tachado~~
 
+# Listas
 1. Esto es un item de lista ordenada
 2. Esto es un item de lista ordenada
 3. Esto es un item de lista ordenada
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
+
+# Links
+- [Links en markdown](http://www.google.com.co)
+- [Link al index](index.html)
