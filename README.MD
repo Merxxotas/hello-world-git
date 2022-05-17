@@ -87,3 +87,12 @@ Otro texto dividido segunda forma
 Otro texto dividido tercera forma
 
 ___
+
+# Saltos de linea
+
+Primer texto.
+
+Segundo texto.
+
+Tercer texto.
+- lista
