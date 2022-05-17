@@ -73,3 +73,17 @@ Cualquier cosa
 
 Puedo escribir cualquier cosa
 > Otra cita
+
+# Lineas divisorias
+
+Texto que será dividido primera forma
+
+---
+
+Otro texto dividido segunda forma
+
+***
+
+Otro texto dividido tercera forma
+
+___
